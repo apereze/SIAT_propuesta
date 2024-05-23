@@ -1,0 +1,339 @@
+{
+  "section": {
+    "div": [
+      {
+        "div": [
+          {
+            "strong": "Estados alertados:",
+            "span": 7
+          },
+          {
+            "#text": "Municipios alertados:",
+            "span": 808
+          },
+          {
+            "ul": {
+              "div": [
+                {
+                  "h3": "Campeche",
+                  "div": {
+                    "div": {
+                      "span": "Acercándose",
+                      "div": {
+                        "#text": "Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada, Tenabo, Escárcega, Calakmul, Candelaria",
+                        "span": "NARANJA (11)"
+                      }
+                    }
+                  }
+                },
+                {
+                  "h3": "Tabasco",
+                  "div": {
+                    "div": [
+                      {
+                        "span": "Acercándose",
+                        "div": {
+                          "#text": "Balancán, Emiliano Zapata, Jonuta, Tenosique",
+                          "span": "NARANJA (4)"
+                        }
+                      },
+                      {
+                        "span": "Alejándose",
+                        "div": [
+                          {
+                            "#text": "Centla, Centro, Comalcalco, Cunduacán, Jalapa, Jalpa de Méndez, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa",
+                            "span": "AMARILLA (11)"
+                          },
+                          {
+                            "#text": "Cárdenas, Huimanguillo",
+                            "span": "VERDE (2)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "h3": "Yucatán",
+                  "div": {
+                    "div": {
+                      "span": "Acercándose",
+                      "div": [
+                        {
+                          "#text": "Abalá, Acanceh, Akil, Baca, Celestún, Conkal, Chacsinkín, Chapab, Chicxulub Pueblo, Chocholá, Chumayel, Dzán, Halachó, Hunucmá, Ixil, Kanasín, Kinchil, Kopomá, Mama, Maní, Maxcanú, Mayapán, Mérida, Mocochá, Muna, Opichén, Oxkutzcab, Progreso, Sacalum, Samahil, Santa Elena, Seyé, Tahmek, Teabo, Tecoh, Tekax, Tekit, Tetiz, Ticul, Timucuy, Tixkokob, Tixmehuac, Tixpéhual, Tzucacab, Ucú, Umán, Yaxkukul",
+                          "span": "NARANJA (47)"
+                        },
+                        {
+                          "#text": "Bokobá, Cacalchén, Cansahcab, Cantamayec, Cenotillo, Cuncunul, Cuzamá, Chankom, Chemax, Chichimilá, Chikindzonot, Dzemul, Dzidzantún, Dzilam de Bravo, Dzilam González, Dzitás, Dzoncauich, Hocabá, Hoctún, Homún, Huhí, Izamal, Kantunil, Kaua, Motul, Muxupip, Peto, Quintana Roo, Sanahcat, Sinanché, Sotuta, Sudzal, Suma, Tahdziú, Tekal de Venegas, Tekantó, Tekom, Telchac Pueblo, Telchac Puerto, Temax, Temozón, Tepakán, Teya, Tinum, Tixcacalcupul, Tunkás, Uayma, Valladolid, Xocchel, Yaxcabá, Yobaín",
+                          "span": "AMARILLA (51)"
+                        },
+                        {
+                          "#text": "Buctzotz, Calotmul, Espita, Panabá, Río Lagartos, San Felipe, Sucilá, Tizimín",
+                          "span": "VERDE (8)"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "h3": "Quintana Roo",
+                  "div": {
+                    "div": {
+                      "span": "Acercándose",
+                      "div": [
+                        {
+                          "#text": "Othón P. Blanco, José María Morelos, Bacalar",
+                          "span": "AMARILLA (3)"
+                        },
+                        {
+                          "#text": "Felipe Carrillo Puerto, Isla Mujeres, Benito Juárez, Lázaro Cárdenas, Solidaridad, Tulum, Puerto Morelos",
+                          "span": "VERDE (7)"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "h3": "Chiapas",
+                  "div": {
+                    "div": {
+                      "span": "Alejándose",
+                      "div": [
+                        {
+                          "#text": "Amatán, Catazajá, Chapultenango, Chilón, Francisco León, Huitiupán, Ixhuatán, Ixtacomitán, Ixtapangajoya, Juárez, La Libertad, Ostuacán, Palenque, Pichucalco, Reforma, Sabanilla, Salto de Agua, Solosuchiapa, Sunuapa, Tila, Tumbalá, Yajalón",
+                          "span": "AMARILLA (22)"
+                        },
+                        {
+                          "#text": "Acala, Altamirano, Amatenango del Valle, Arriaga, Berriozábal, Bochil, El Bosque, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Huixtán, La Independencia, Ixtapa, Jiquipilas, Jitotol, Larráinzar, Las Margaritas, Mitontic, Nicolás Ruíz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Osumacinta, Oxchuc, Pantelhó, Pantepec, Pueblo Nuevo Solistahuacán, Rayón, Las Rosas, San Cristóbal de las Casas, San Fernando, Simojovel, Sitalá, Socoltenango, Soyaló, Suchiapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tonalá, Totolapa, La Trinitaria, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, San Lucas, Zinacantán, San Juan Cancuc, Aldama, Benemérito de las Américas, Maravilla Tenejapa, Marqués de Comillas, San Andrés Duraznal, Santiago el Pinar",
+                          "span": "VERDE (66)"
+                        },
+                        {
+                          "#text": "Acacoyagua, Acapetahua, Amatenango de la Frontera, Angel Albino Corzo, Bejucal de Ocampo, Bella Vista, Cacahoatán, La Concordia, Chicomuselo, Escuintla, Frontera Comalapa, Frontera Hidalgo, La Grandeza, Huehuetán, Huixtla, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, El Porvenir, Villa Comaltitlán, Siltepec, Suchiate, Tapachula, Tuxtla Chico, Tuzantán, Unión Juárez, Montecristo de Guerrero",
+                          "span": "AZUL (30)"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "h3": "Oaxaca",
+                  "div": {
+                    "div": {
+                      "span": "Alejándose",
+                      "div": [
+                        {
+                          "#text": "Asunción Ixtaltepec, El Barrio de la Soledad, Ciudad Ixtepec, Chahuites, El Espinal, Guevea de Humboldt, Heroica Ciudad de Juchitán de Zaragoza, Magdalena Tlacotepec, Matías Romero Avendaño, Santiago Niltepec, Reforma de Pineda, Salina Cruz, San Blas Atempa, San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Juan Cotzocón, San Juan Guichicovi, San Juan Mazatlán, San Mateo del Mar, San Miguel Chimalapa, San Miguel Tenango, San Pedro Comitancillo, San Pedro Huilotepec, San Pedro Tapanatepec, Santa María Chimalapa, Santa María Guienagati, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Totolapilla, Santa María Xadani, Santiago Ixcuintepec, Santiago Lachiguiri, Santiago Laollaga, Santiago Yaveo, Santo Domingo Ingenio, Santo Domingo Chihuitán, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec, Unión Hidalgo",
+                          "span": "VERDE (42)"
+                        },
+                        {
+                          "#text": "Abejones, Acatlán de Pérez Figueroa, Asunción Cacalotepec, Asunción Nochixtlán, Asunción Ocotlán, Asunción Tlacolulita, Ayotzintepec, Candelaria Loxicha, Ciénega de Zimatlán, Coatecas Altas, La Compañía, Concepción Pápalo, Cosolapa, Cuilápam de Guerrero, Cuyamecalco Villa de Zaragoza, Chiquihuitlán de Benito Juárez, Heroica Ciudad de Ejutla de Crespo, Eloxochitlán de Flores Magón, Tamazulápam del Espíritu Santo, Guadalupe Etla, Guelatao de Juárez, Villa Hidalgo, Huautepec, Huautla de Jiménez, Ixtlán de Juárez, Loma Bonita, Magdalena Apasco, Magdalena Jaltepec, Magdalena Mixtepec, Magdalena Ocotlán, Magdalena Teitipac, Magdalena Tequisistlán, Magdalena Zahuatlán, Mazatlán Villa de Flores, Miahuatlán de Porfirio Díaz, Mixistlán de la Reforma, Monjas, Natividad, Nazareno Etla, Nejapa de Madero, Oaxaca de Juárez, Ocotlán de Morelos, La Pe, Pluma Hidalgo, San José del Progreso, Santa Catarina Quioquitani, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín de las Juntas, San Agustín Etla, San Agustín Loxicha, San Agustín Yatareni, San Andrés Huayápam, San Andrés Ixtlahuaca, San Andrés Nuxiño, San Andrés Paxtlán, San Andrés Solaga, San Andrés Teotilálpam, San Andrés Yaá, San Andrés Zabache, San Andrés Zautla, San Antonino Castillo Velasco, San Antonino el Alto, San Antonio de la Cal, San Antonio Huitepec, San Antonio Nanahuatípam, San Baltazar Chichicápam, San Baltazar Loxicha, San Baltazar Yatzachi el Bajo, San Bartolo Coyotepec, San Bartolomé Ayautla, San Bartolomé Loxicha, San Bartolomé Quialana, San Bartolomé Zoogocho, San Bartolo Yautepec, San Bernardo Mixtepec, San Carlos Yautepec, San Cristóbal Amatlán, San Cristóbal Lachirioag, San Dionisio Ocotepec, San Dionisio Ocotlán, San Felipe Jalapa de Díaz, San Felipe Tejalápam, San Felipe Usila, San Francisco Cajonos, San Francisco Chapulapa, San Francisco Huehuetlán, San Francisco Lachigoló, San Francisco Logueche, San Francisco Ozolotepec, San Francisco Sola, San Francisco Telixtlahuaca, San Gabriel Mixtepec, San Ildefonso Amatlán, San Ildefonso Sola, San Ildefonso Villa Alta, San Jacinto Amilpas, San Jerónimo Coatlán, San Jerónimo Sosola, San Jerónimo Taviche, San Jerónimo Tecóatl, San José Chiltepec, San José del Peñasco, San José Independencia, San José Lachiguiri, San José Tenango, San Juan Atepec, Ánimas Trujano, San Juan Bautista Atatlahuca, San Juan Bautista Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista Tlacoatzintepec, San Juan Bautista Tuxtepec, San Juan Coatzóspam, San Juan Comaltepec, San Juan Chicomezúchil, San Juan Chilateca, San Juan del Estado, San Juan del Río, San Juan Evangelista Analco, San Juan Guelavía, San Juan Juquila Mixes, San Juan Juquila Vijanos, San Juan Lachao, San Juan Lachigalla, San Juan Lajarcia, San Juan Lalana, San Juan de los Cués, San Juan Mixtepec -Dto. 26 -, San Juan Ozolotepec, San Juan Petlapa, San Juan Quiotepec, San Juan Tabaá, San Juan Tamazola, San Juan Teitipac, San Juan Tepeuxila, San Juan Yaeé, San Juan Yatzona, San Lorenzo Albarradas, San Lorenzo Cacaotepec, San Lorenzo Cuaunecuiltitla, San Lucas Camotlán, San Lucas Ojitlán, San Lucas Quiaviní, San Lucas Zoquiápam, San Luis Amatlán, San Marcial Ozolotepec, San Martín de los Cansecos, San Martín Lachilá, San Martín Tilcajete, San Martín Toxpalan, San Mateo Cajonos, Capulálpam de Méndez, San Mateo Yoloxochitlán, San Mateo Piñas, San Mateo Río Hondo, San Melchor Betaza, San Miguel Aloápam, San Miguel Amatlán, San Miguel Coatlán, San Miguel Chicahua, San Miguel del Puerto, San Miguel del Río, San Miguel Ejutla, San Miguel Huautla, San Miguel Mixtepec, San Miguel Peras, San Miguel Piedras, San Miguel Quetzaltepec, San Miguel Santa Flor, Villa Sola de Vega, San Miguel Soyaltepec, San Miguel Suchixtepec, Villa Talea de Castro, San Miguel Tequixtepec, San Miguel Tilquiápam, San Miguel Yotao, San Nicolás, San Pablo Coatlán, San Pablo Cuatro Venados, San Pablo Etla, San Pablo Huitzo, San Pablo Huixtepec, San Pablo Macuiltianguis, San Pablo Villa de Mitla, San Pablo Yaganiza, San Pedro Apóstol, San Pedro Cajonos, San Pedro Coxcaltepec Cántaros, San Pedro el Alto, San Pedro Huamelula, San Pedro Ixcatlán, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Juchatengo, San Pedro Mártir, San Pedro Mártir Quiechapa, San Pedro Mixtepec -Dto. 22 -, San Pedro Mixtepec -Dto. 26 -, San Pedro Ocopetatillo, San Pedro Ocotepec, San Pedro Pochutla, San Pedro Quiatoni, San Pedro Sochiápam, San Pedro Taviche, San Pedro Teozacoalco, San Pedro Teutila, San Pedro Totolápam, San Pedro Yaneri, San Pedro Yólox, San Pedro y San Pablo Ayutla, Villa de Etla, San Raymundo Jalpan, San Sebastián Abasolo, San Sebastián Coatlán, San Sebastián Río Hondo, San Sebastián Teitipac, San Sebastián Tutla, San Simón Almolongas, Santa Ana, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Ana del Valle, Santa Ana Tavela, Santa Ana Tlapacoyan, Santa Ana Yareni, Santa Ana Zegache, Santa Catalina Quierí, Santa Catarina Cuixtla, Santa Catarina Ixtepeji, Santa Catarina Lachatao, Santa Catarina Loxicha, Santa Catarina Minas, Santa Catarina Quiané, Santa Cruz Acatepec, Santa Cruz Amilpas, Santa Cruz Mixtepec, Santa Cruz Papalutla, Santa Cruz Xitla, Santa Cruz Xoxocotlán, Santa Gertrudis, Santa Inés del Monte, Santa Inés Yatzeche, Santa Lucía del Camino, Santa Lucía Miahuatlán, Santa Lucía Ocotlán, Santa María Alotepec, Santa María Apazco, Santa María la Asunción, Ayoquezco de Aldama, Santa María Atzompa, Santa María Colotepec, Santa María Coyotepec, Santa María Chilchotla, Santa María del Tule, Santa María Ecatepec, Santa María Guelacé, Santa María Huatulco, Santa María Ixcatlán, Santa María Jacatepec, Santa María Jaltianguis, Santa María Lachixío, Santa María Ozolotepec, Santa María Pápalo, Santa María Peñoles, Santa María Quiegolani, Santa María Sola, Santa María Tecomavaca, Santa María Temaxcalapa, Santa María Temaxcaltepec, Santa María Teopoxco, Santa María Tepantlali, Santa María Texcatitlán, Santa María Tlahuitoltepec, Santa María Tlalixtac, Santa María Tonameca, Santa María Yalina, Santa María Yavesía, Santa María Zoquitlán, Santiago Apoala, Santiago Apóstol, Santiago Astata, Santiago Atitlán, Santiago Camotlán, Santiago Comaltepec, Santiago Choápam, Santiago Huauclilla, Santiago Jocotepec, Santiago Lalopa, Santiago Laxopa, Santiago Matatlán, Santiago Nacaltepec, Santiago Suchilquitongo, Santiago Tenango, Santiago Texcalcingo, Santiago Tlazoyaltepec, Santiago Xanica, Santiago Xiacuí, Santiago Yaitepec, Santiago Zacatepec, Santiago Zoochila, Nuevo Zoquiápam, Santo Domingo Albarradas, Santo Domingo de Morelos, Santo Domingo Nuxaá, Santo Domingo Ozolotepec, Santo Domingo Roayaga, Santo Domingo Tepuxtepec, Santo Domingo Tomaltepec, Santo Domingo Xagacía, Santos Reyes Nopala, Santos Reyes Pápalo, Santo Tomás Jalieza, Santo Tomás Mazaltepec, Santo Tomás Tamazulapan, San Vicente Coatlán, San Vicente Lachixío, Sitio de Xitlapehua, Soledad Etla, Tanetze de Zaragoza, Taniche, Teococuilco de Marcos Pérez, Teotitlán de Flores Magón, Teotitlán del Valle, Tepelmeme Villa de Morelos, San Jerónimo Tlacochahuaya, Tlacolula de Matamoros, Tlalixtac de Cabrera, Totontepec Villa de Morelos, Trinidad Zaachila, Valerio Trujano, San Juan Bautista Valle Nacional, Villa Díaz Ordaz, Yaxe, Yogana, Yutanduchi de Guerrero, Villa de Zaachila, Santa Inés de Zaragoza, Zimatlán de Álvarez",
+                          "span": "AZUL (343)"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "h3": "Veracruz",
+                  "div": {
+                    "div": {
+                      "span": "Alejándose",
+                      "div": [
+                        {
+                          "#text": "Acayucan, Acula, Alvarado, Amatitlán, Angel R. Cabada, Catemaco, Coatzacoalcos, Cosamaloapan de Carpio, Cosoleacaque, Chacaltianguis, Chinameca, Las Choapas, Hidalgotitlán, Hueyapan de Ocampo, Ignacio de la Llave, Isla, Ixhuatlán del Sureste, Ixmatlahuacan, Jáltipan, Jesús Carranza, Juan Rodríguez Clara, Lerdo de Tejada, Mecayapan, Minatitlán, Moloacán, Oluta, Otatitlán, Oteapan, Pajapan, Playa Vicente, Saltabarranca, San Andrés Tuxtla, San Juan Evangelista, Santiago Tuxtla, Sayula de Alemán, Soconusco, Soteapan, José Azueta, Texistepec, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tuxtilla, Zaragoza, Agua Dulce, Nanchital de Lázaro Cárdenas del Río, Tres Valles, Carlos A. Carrillo, Tatahuicapan de Juárez, Uxpanapa, Santiago Sochiapan",
+                          "span": "VERDE (52)"
+                        },
+                        {
+                          "#text": "Acajete, Acatlán, Actopan, Acultzingo, Camarón de Tejeda, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Amatlán de los Reyes, La Antigua, Apazapan, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Atzalan, Tlaltetela, Ayahualulco, Banderilla, Boca del Río, Calcahualco, Camerino Z. Mendoza, Carrillo Puerto, Coacoatzintla, Coatepec, Coetzala, Colipa, Comapa, Córdoba, Cosautlán de Carvajal, Coscomatepec, Cotaxtla, Cuichapa, Cuitláhuac, Chiconquiaco, Chocamán, Emiliano Zapata, Fortín, Huatusco, Huiloapan de Cuauhtémoc, Ixhuacán de los Reyes, Ixhuatlán del Café, Ixhuatlancillo, Ixtaczoquitlán, Jalacingo, Xalapa, Jalcomulco, Jamapa, Xico, Jilotepec, Juchique de Ferrer, Landero y Coss, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Medellín, Miahuatlán, Las Minas, Misantla, Mixtla de Altamirano, Naolinco, Naranjal, Nautla, Nogales, Omealca, Orizaba, Paso del Macho, Paso de Ovejas, La Perla, Perote, Las Vigas de Ramírez, Puente Nacional, Rafael Delgado, Rafael Lucio, Los Reyes, Río Blanco, San Andrés Tenejapan, Sochiapa, Soledad Atzompa, Soledad de Doblado, Tatatila, Tehuipango, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tequila, Texhuacán, Tezonapa, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaquilpa, Tlilapan, Tomatlán, Tonayán, Totutla, Ursulo Galván, Vega de Alatorre, Veracruz, Villa Aldama, Xoxocotla, Yanga, Yecuatla, Zentla, Zongolica",
+                          "span": "AZUL (109)"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "div": {
+          "div": [
+            {
+              "svg": {
+                "g": [
+                  {
+                    "g": [
+                      {
+                        "rect": [
+                          "",
+                          "",
+                          "",
+                          "",
+                          "",
+                          "",
+                          ""
+                        ]
+                      },
+                      {
+                        "rect": [
+                          "",
+                          "",
+                          "",
+                          "",
+                          "",
+                          "",
+                          ""
+                        ]
+                      },
+                      {
+                        "path": "",
+                        "g": [
+                          {
+                            "line": "",
+                            "text": {
+                              "tspan": [
+                                "",
+                                "Campeche"
+                              ]
+                            }
+                          },
+                          {
+                            "line": "",
+                            "text": {
+                              "tspan": "Chiapas"
+                            }
+                          },
+                          {
+                            "line": "",
+                            "text": {
+                              "tspan": "Oaxaca"
+                            }
+                          },
+                          {
+                            "line": "",
+                            "text": {
+                              "tspan": [
+                                "Quintana",
+                                "Roo"
+                              ]
+                            }
+                          },
+                          {
+                            "line": "",
+                            "text": {
+                              "tspan": "Tabasco"
+                            }
+                          },
+                          {
+                            "line": "",
+                            "text": {
+                              "tspan": "Veracruz"
+                            }
+                          },
+                          {
+                            "line": "",
+                            "text": {
+                              "tspan": "Yucatán"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "path": "",
+                        "g": [
+                          {
+                            "line": "",
+                            "text": 0
+                          },
+                          {
+                            "line": "",
+                            "text": 50
+                          },
+                          {
+                            "line": "",
+                            "text": 100
+                          },
+                          {
+                            "line": "",
+                            "text": 150
+                          },
+                          {
+                            "line": "",
+                            "text": 200
+                          },
+                          {
+                            "line": "",
+                            "text": 250
+                          },
+                          {
+                            "line": "",
+                            "text": 300
+                          },
+                          {
+                            "line": "",
+                            "text": 350
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "g": [
+                      {
+                        "rect": "",
+                        "text": "ALEJANDOSE"
+                      },
+                      {
+                        "rect": "",
+                        "text": "ACERCÁNDOSE"
+                      }
+                    ]
+                  },
+                  {
+                    "rect": "",
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "svg": {
+                "g": {
+                  "g": [
+                    "",
+                    {
+                      "text": [
+                        "Peligro Alto (62)",
+                        "Peligro Medio (87)",
+                        "Peligro Bajo (177)",
+                        "Peligro Muy Bajo (482)"
+                      ]
+                    },
+                    {
+                      "polyline": [
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    "",
+                    ""
+                  ],
+                  "path": [
+                    "",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
